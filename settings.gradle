@@ -1,0 +1,3 @@
+// FTC Apps
+include ':FtcRobotController', ':ftc-library'
+project(':ftc-library').projectDir = new File('FTCLibrary/ftc-library')

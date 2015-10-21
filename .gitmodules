@@ -1,0 +1,3 @@
+[submodule "FTCLibrary"]
+	path = FTCLibrary
+	url = https://github.com/lasarobotics/FTCLibrary.git
